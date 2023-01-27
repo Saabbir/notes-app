@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/3c02cdb6-9b3d-4efb-938e-ea53cf61c4ce/deploy-status)](https://app.netlify.com/sites/saabbir-notes-app/deploys)
+<!--  [![Netlify Status](https://api.netlify.com/api/v1/badges/3c02cdb6-9b3d-4efb-938e-ea53cf61c4ce/deploy-status)](https://app.netlify.com/sites/saabbir-notes-app/deploys) -->
 
 # Notes App
 
